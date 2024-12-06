@@ -1,0 +1,22 @@
+{D:/Digital design/SPI_SLAVE_PROJECT/Wrapper.v} {1 {vlog -work work -stats=none {D:/Digital design/SPI_SLAVE_PROJECT/Wrapper.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Wrapper
+
+Top level modules:
+	Wrapper
+
+} {} {}} {D:/Digital design/SPI_SLAVE_PROJECT/wrapper_tb.v} {1 {vlog -work work -stats=none {D:\Digital design\SPI_SLAVE_PROJECT\wrapper_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Wrapper_tb
+
+Top level modules:
+	Wrapper_tb
+
+} {} {}} {D:/Digital design/SPI_SLAVE_PROJECT/Ram.v} {1 {vlog -work work -stats=none {D:/Digital design/SPI_SLAVE_PROJECT/Ram.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Ram
+
+Top level modules:
+	Ram
+
+} {} {}}
